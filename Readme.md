@@ -2,7 +2,7 @@
 
 **Summary**
 
-This repo needs organiztaion. For now it's just a place to keep all the notes. Wiki format preferred.
+This repo needs organization. For now it's just a place to keep all the notes. Wiki format preferred.
 
 
 **Smart Contract Storage**
@@ -16,5 +16,6 @@ Neon doesn't work with MainNet ONT. You have to use the ONTO mobile wallet for n
 
 
 
+**Thanks**
 
 Thanks to Hal0x2328 for a majority of these answers as they are mostly his exact wording.
