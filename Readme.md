@@ -31,6 +31,16 @@ Nothing happens after installer runs on Windows 10.
 3. Install new version.
 
 
+**Neon Wallet Data Files**
+
+c:\users\yourusername\Appdata\Roaming\Neon\storage\userWallet.json
+
+
+**Aphelion Wallet**
+
+Can be used for decrypting and encrypted neo key
+
+
 **Data Types Reference**
 
 Neo Network Protocol
